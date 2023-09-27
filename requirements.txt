@@ -79,7 +79,6 @@ SQLAlchemy==1.4.49
 streamlit==1.25.0
 sympy==1.12
 tenacity==8.2.2
-time
 thrift==0.16.0
 tokenizers==0.13.3
 toml==0.10.2
