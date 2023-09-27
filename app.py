@@ -11,7 +11,7 @@ from PIL import Image
 
     # Load and display the robot avatar image
 
-robot_avatar = Image.open("c:/Users/Chithirai/Downloads/bot.png")  # Replace with the actual path to your image
+robot_avatar = Image.open("./bot.png")  # Replace with the actual path to your image
 
  
 
