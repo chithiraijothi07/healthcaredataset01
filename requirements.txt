@@ -74,7 +74,6 @@ safetensors==0.3.1
 six==1.16.0
 smmap==5.0.0
 SQLAlchemy==1.4.49
-SQLDatabase
 streamlit==1.25.0
 sympy==1.12
 tenacity==8.2.2
