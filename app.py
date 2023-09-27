@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 import time
-# from langchain import OpenAI
+from langchain import OpenAI
 from langchain_experimental.sql import SQLDatabaseChain
 from langchain.utilities import SQLDatabase
 from langchain.chat_models import ChatOpenAI
