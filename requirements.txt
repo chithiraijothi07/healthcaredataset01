@@ -10,7 +10,6 @@ certifi==2022.12.7
 charset-normalizer==3.0.1
 click==8.1.3
 colorama==0.4.6
-chat_models
 databricks-sql-connector
 dataclasses-json==0.5.13
 decorator==5.1.1
@@ -92,7 +91,6 @@ typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==4.3.1
 urllib3==1.26.14
-utilities
 validators==0.20.0
 virtualenv==20.20.0
 watchdog==3.0.0
