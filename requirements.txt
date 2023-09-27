@@ -77,8 +77,6 @@ six==1.16.0
 smmap==5.0.0
 SQLAlchemy==1.4.49
 streamlit==1.25.0
-SQLDatabaseChain
-SQLDatabase
 sympy==1.12
 tenacity==8.2.2
 time
