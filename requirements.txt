@@ -16,9 +16,6 @@ decorator==5.1.1
 distlib==0.3.6
 docopt==0.6.2
 et-xmlfile==1.1.0
-langchain_experimental
-langchain.utilities
-langchain.chat_models
 filelock==3.9.0
 Flask==2.2.3
 frozenlist==1.4.0
@@ -34,6 +31,7 @@ Jinja2==3.1.2
 jsonschema==4.18.4
 jsonschema-specifications==2023.7.1
 langchain==0.0.240
+langchain_experimental
 langsmith==0.0.14
 lz4==4.3.2
 Mako==1.2.4
